@@ -1,0 +1,17 @@
+spring:
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
+    stream-write-constraints:
+      max-nesting-depth: '50' 
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:3306/jpaPracticeManyToMany
+    password: system
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
