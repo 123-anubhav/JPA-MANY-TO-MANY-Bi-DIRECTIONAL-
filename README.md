@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 # JPA-MANY-TO-MANY-Bi-DIRECTIONAL-
 JPA MANY TO MANY [ BIDIRECTIONAL ]
-=======
-# JPA-MANY-TO-MANY-Bi-DIRECTIONAL
-JPA MANY TO MANY [ BIDIRECTIONAL ]
-=======
->>>>>>> 6d71824 (bi-directional many to many)
+
